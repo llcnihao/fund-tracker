@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-06-09 11:48:59",
+  "updateTime": "2026-06-09 07:19:56",
   "funds": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "returnRate": -0.15,
       "estimatedRate": -0.15,
       "estimatedValue": 2.3614,
-      "nav": 2.3649,
-      "navDate": "2026-06-05",
+      "nav": 2.4114,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00"
     },
@@ -155,7 +155,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-06-09 11:48:55"
+      "lastUpdated": "2026-06-09 07:19:39"
     },
     {
       "id": "14",
@@ -179,7 +179,7 @@
       "nav": 1.0171,
       "navDate": "2026-06-05",
       "limit": "",
-      "lastUpdated": "2026-06-09 11:48:58"
+      "lastUpdated": "2026-06-09 07:19:52"
     }
   ]
 }
