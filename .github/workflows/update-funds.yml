@@ -1,0 +1,40 @@
+name: 更新基金数据
+
+on:
+  schedule:
+    # 北京时间 9:00-15:00, 每小时运行一次 (UTC 1:00-7:00)
+    - cron: '0 1-7 * * 1-5'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      
+      - name: 安装依赖
+        run: pip install requests
+      
+      - name: 运行爬虫
+        run: cd app && python scripts/crawler.py
+      
+      - name: 提交并推送
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/data.json
+          git commit -m "自动更新基金数据 [skip ci]" || echo "没有变化"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
