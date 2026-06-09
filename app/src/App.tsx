@@ -45,7 +45,7 @@ const indexData: IndexData[] = [
 ];
 
 const STORAGE_KEY = 'fund-tracker-list';
-const DATA_URL = '/data.json'; // 修改为你的 GitHub Raw URL，如：https://raw.githubusercontent.com/用户名/仓库名/main/data/data.json
+const DATA_URL = 'https://raw.githubusercontent.com/llcnihao/fund-tracker/main/data/data.json';
 const CACHE_KEY = 'fund-data-cache';
 const CACHE_DURATION = 60 * 1000; // 60秒缓存
 
