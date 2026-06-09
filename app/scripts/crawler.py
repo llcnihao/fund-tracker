@@ -77,6 +77,44 @@ def fetch_limit(code):
     except Exception as e:
         return ""
 
+def fetch_holdings(code):
+    """爬取基金十大持仓股票（支持A股/港股/美股）"""
+    url = f"https://fundf10.eastmoney.com/FundArchivesDatas.aspx?type=jjcc&code={code}&topline=10&year=&month="
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=10)
+        resp.encoding = 'utf-8'
+        text = resp.text
+
+        # 提取 tbody 内容
+        tbody_match = re.search(r'<tbody>(.*?)</tbody>', text, re.DOTALL)
+        if not tbody_match:
+            return []
+
+        tbody = tbody_match.group(1)
+
+        # 匹配每行: <tr><td>序号</td><td><a href='.../MARKET.CODE'>CODE</a></td><td><a>NAME</a></td>...<td>WEIGHT%</td>
+        row_pattern = r"<tr><td[^>]*>\d+</td><td[^>]*><a[^>]*href='[^']*/(\d+)\.([A-Z0-9]+)'[^>]*>\2</a></td><td[^>]*><a[^>]*>([^<]+)</a></td>.*?<td[^>]*>([\d.]+)%</td>"
+        matches = re.findall(row_pattern, tbody, re.DOTALL)
+
+        market_map = {"105": "NASDAQ", "106": "NYSE", "1": "SH", "0": "SZ", "116": "HK"}
+        holdings = []
+        for m in matches[:10]:
+            market_prefix = m[0]
+            holdings.append({
+                "code": m[1],
+                "fullCode": f"{market_prefix}.{m[1]}",
+                "name": m[2].strip(),
+                "weight": float(m[3]),
+                "market": market_map.get(market_prefix, market_prefix),
+            })
+
+        if holdings:
+            print(f"  持仓: {len(holdings)}只股票")
+        return holdings
+    except Exception as e:
+        print(f"  [警告] 持仓 {code}: {e}")
+        return []
+
 def fetch_nav(code):
     """获取基金净值"""
     url = f"https://api.fund.eastmoney.com/f10/lsjz?callback=jQuery&fundCode={code}&pageIndex=1&pageSize=1"
@@ -145,6 +183,11 @@ def main():
         if limit:
             result["limit"] = limit
             print(f"  限额: {limit}")
+
+        # 4. 持仓
+        holdings = fetch_holdings(code)
+        if holdings:
+            result["holdings"] = holdings
         
         results.append(result)
         time.sleep(random.uniform(0.5, 1.5))

@@ -16,6 +16,22 @@ interface FundItem {
   estimatedRate?: number; // 估算收益率
   limit?: string;
   lastUpdated?: string;
+  holdings?: HoldingItem[]; // 持仓股票
+}
+
+interface HoldingItem {
+  code: string;
+  fullCode: string;
+  name: string;
+  weight: number;
+  market: string;
+}
+
+interface StockQuote {
+  code: string;
+  price: number;
+  changePercent: number;
+  name: string;
 }
 
 // ==================== Default Fund List ====================
@@ -136,13 +152,14 @@ function IndexCard({ data }: { data: IndexData }) {
   );
 }
 
-function FundRow({ fund, onRemove }: { fund: FundItem; onRemove: (id: string) => void }) {
+function FundRow({ fund, onRemove, onClick }: { fund: FundItem; onRemove: (id: string) => void; onClick?: () => void }) {
   const displayRate = fund.estimatedRate ?? fund.returnRate;
   const isPositive = displayRate >= 0;
   
   return (
     <div
-      className="flex items-center justify-between px-4 py-3 mx-3 mb-2 rounded-lg bg-[#2a2e38] hover:bg-[#323844] transition-colors group"
+      className="flex items-center justify-between px-4 py-3 mx-3 mb-2 rounded-lg bg-[#2a2e38] hover:bg-[#323844] transition-colors group cursor-pointer"
+      onClick={onClick}
     >
       <div className="flex items-center gap-2 min-w-0 flex-1">
         <span className="text-[#e5e7eb] text-sm truncate">{fund.name}</span>
@@ -168,7 +185,7 @@ function FundRow({ fund, onRemove }: { fund: FundItem; onRemove: (id: string) =>
           )}
         </div>
         <button
-          onClick={() => onRemove(fund.id)}
+          onClick={(e) => { e.stopPropagation(); onRemove(fund.id); }}
           className="opacity-0 group-hover:opacity-100 text-[#6b7280] hover:text-red-400 transition-all"
           title="删除该基金"
         >
@@ -272,6 +289,119 @@ function AddFundModal({ onAdd, onClose }: { onAdd: (fund: FundItem) => void; onC
   );
 }
 
+// ==================== Fund Detail Drawer ====================
+
+function FundDetailDrawer({ fund, onClose }: { fund: FundItem; onClose: () => void }) {
+  const [quotes, setQuotes] = useState<Record<string, StockQuote>>({});
+  const [loadingQuotes, setLoadingQuotes] = useState(true);
+  const holdings = fund.holdings;
+
+  useEffect(() => {
+    if (!holdings || holdings.length === 0) {
+      setLoadingQuotes(false);
+      return;
+    }
+    
+    const fetchQuotes = async () => {
+      try {
+        const secids = holdings.map(h => h.fullCode).join(',');
+        const url = `https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&fields=f2,f3,f12,f14&secids=${secids}`;
+        const resp = await fetch(url);
+        const data = await resp.json();
+        
+        const quoteMap: Record<string, StockQuote> = {};
+        if (data.data?.diff) {
+          for (const item of data.data.diff) {
+            quoteMap[item.f12] = {
+              code: item.f12,
+              price: item.f2 || 0,
+              changePercent: item.f3 || 0,
+              name: item.f14 || '',
+            };
+          }
+        }
+        setQuotes(quoteMap);
+      } catch (e) {
+        console.error('获取股票报价失败:', e);
+      } finally {
+        setLoadingQuotes(false);
+      }
+    };
+    
+    fetchQuotes();
+  }, [holdings]);
+
+  return (
+    <div className="fixed inset-0 bg-black/60 flex justify-end z-50" onClick={onClose}>
+      <div
+        className="bg-[#1a1d24] w-full max-w-md h-full overflow-y-auto shadow-2xl animate-slide-in"
+        onClick={e => e.stopPropagation()}
+      >
+        {/* Header */}
+        <div className="sticky top-0 bg-[#1a1d24] border-b border-[#2a2e38] p-4 flex items-center justify-between z-10">
+          <div className="min-w-0">
+            <h2 className="text-lg font-bold text-[#e5e7eb] truncate">{fund.name}</h2>
+            <p className="text-xs text-[#6b7280]">{fund.code}</p>
+          </div>
+          <button onClick={onClose} className="shrink-0 ml-3 text-[#6b7280] hover:text-[#e5e7eb] transition-colors">
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+        
+        {/* Content */}
+        <div className="p-4">
+          {!holdings || holdings.length === 0 ? (
+            <div className="text-center py-16 text-[#6b7280] text-sm">
+              <svg className="w-10 h-10 mx-auto mb-3 opacity-30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+              </svg>
+              暂无持仓数据
+            </div>
+          ) : (
+            <>
+              <h3 className="text-sm font-medium text-[#9ca3af] mb-3">
+                十大持仓 {loadingQuotes && <span className="text-[#6b7280] ml-1">· 加载报价中...</span>}
+              </h3>
+              <div className="space-y-1">
+                {holdings.map((h, i) => {
+                  const quote = quotes[h.code];
+                  const change = quote?.changePercent ?? 0;
+                  const isPositive = change >= 0;
+                  return (
+                    <div key={i} className="flex items-center justify-between py-2.5 px-3 rounded-lg hover:bg-[#23272f] transition-colors">
+                      <div className="flex items-center gap-2.5 flex-1 min-w-0">
+                        <span className="text-xs text-[#4b5563] w-5 text-right shrink-0">{i + 1}</span>
+                        <div className="min-w-0">
+                          <div className="text-sm text-[#e5e7eb] truncate">{h.name}</div>
+                          <div className="text-xs text-[#6b7280]">{h.code} · {h.market}</div>
+                        </div>
+                      </div>
+                      <div className="text-right shrink-0 ml-3">
+                        <div className="text-sm text-[#e5e7eb] font-medium">{h.weight.toFixed(2)}%</div>
+                        {loadingQuotes ? (
+                          <div className="w-12 h-3 bg-[#2a2e38] rounded animate-pulse mt-0.5" />
+                        ) : quote ? (
+                          <div className={`text-xs font-semibold mt-0.5 ${isPositive ? 'text-red-500' : 'text-green-500'}`}>
+                            {change >= 0 ? '+' : ''}{change.toFixed(2)}%
+                          </div>
+                        ) : (
+                          <div className="text-xs text-[#4b5563] mt-0.5">--</div>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
 // ==================== Main App ====================
 function App() {
   const [funds, setFunds] = useState<FundItem[]>(() => {
@@ -286,7 +416,7 @@ function App() {
   const [showAddModal, setShowAddModal] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [lastUpdateTime, setLastUpdateTime] = useState<string>('');
-  const [autoRefresh, setAutoRefresh] = useState(true);
+  const [selectedFund, setSelectedFund] = useState<FundItem | null>(null);
 
   // 保存基金列表到localStorage
   useEffect(() => {
@@ -373,17 +503,6 @@ function App() {
     loadData();
   }, [fetchDataFromJSON]);
 
-  // 自动刷新（每60秒从远程读取）
-  useEffect(() => {
-    if (!autoRefresh) return;
-    
-    const interval = setInterval(() => {
-      fetchDataFromJSON(false);
-    }, 60000);
-    
-    return () => clearInterval(interval);
-  }, [autoRefresh, fetchDataFromJSON]);
-
   const handleAddFund = useCallback((fund: FundItem) => {
     setFunds(prev => [...prev, fund]);
     setShowAddModal(false);
@@ -429,17 +548,6 @@ function App() {
               )}
             </button>
             <button
-              onClick={() => setAutoRefresh(prev => !prev)}
-              className={`text-sm px-3 py-1.5 rounded-lg transition-colors ${
-                autoRefresh 
-                  ? 'bg-green-900/50 text-green-400' 
-                  : 'bg-[#2a2e38] text-[#9ca3af] hover:bg-[#323844]'
-              }`}
-              title={autoRefresh ? '自动刷新已开启' : '自动刷新已关闭'}
-            >
-              {autoRefresh ? '自动刷新中' : '自动刷新'}
-            </button>
-            <button
               onClick={() => setShowAddModal(true)}
               className="bg-red-600 hover:bg-red-700 text-white text-sm px-3 py-1.5 rounded-lg transition-colors"
             >
@@ -468,8 +576,7 @@ function App() {
         <div className="text-center mb-4">
           <p className="text-xs text-[#6b7280]">
             数据来源：天天基金网 |
-            最后更新：<span className="text-red-500">{lastUpdateTime || '--:--'}</span>
-            {autoRefresh && <span className="text-green-500 ml-1">● 自动刷新中</span>}
+            最后更新：<span className="text-red-500">            {lastUpdateTime || '--:--'}</span>
           </p>
         </div>
 
@@ -481,7 +588,7 @@ function App() {
             </div>
           ) : (
             funds.map((fund) => (
-              <FundRow key={fund.id} fund={fund} onRemove={handleRemoveFund} />
+              <FundRow key={fund.id} fund={fund} onRemove={handleRemoveFund} onClick={() => setSelectedFund(fund)} />
             ))
           )}
         </div>
@@ -489,7 +596,7 @@ function App() {
         {/* Footer */}
         <div className="mt-6 text-center">
           <p className="text-xs text-[#4b5563]">
-            数据仅供参考，不构成投资建议 · 基金数据每60秒自动更新
+            数据仅供参考，不构成投资建议 · 点击"刷新"获取最新数据
           </p>
         </div>
       </main>
@@ -497,6 +604,11 @@ function App() {
       {/* Add Fund Modal */}
       {showAddModal && (
         <AddFundModal onAdd={handleAddFund} onClose={() => setShowAddModal(false)} />
+      )}
+
+      {/* Fund Detail Drawer */}
+      {selectedFund && (
+        <FundDetailDrawer fund={selectedFund} onClose={() => setSelectedFund(null)} />
       )}
     </div>
   );

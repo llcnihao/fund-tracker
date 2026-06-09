@@ -37,6 +37,15 @@
   padding: 2em;
 }
 
-.read-the-docs {
-  color: #888;
+.animate-slide-in {
+  animation: slideIn 0.25s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
 }
