@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-06-09 07:19:56",
+  "updateTime": "2026-06-09 20:03:33",
   "funds": [
     {
       "id": "1",
@@ -11,7 +11,79 @@
       "nav": 2.4114,
       "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "NFLX",
+          "fullCode": "105.NFLX",
+          "name": "奈飞",
+          "weight": 9.32,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 9.28,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 7.76,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 7.5,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 7.43,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSLA",
+          "fullCode": "105.TSLA",
+          "name": "特斯拉",
+          "weight": 7.33,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 6.82,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 6.34,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "META",
+          "fullCode": "105.META",
+          "name": "Meta Platforms Inc-A",
+          "weight": 5.77,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MRVL",
+          "fullCode": "105.MRVL",
+          "name": "迈威尔科技",
+          "weight": 4.96,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "2",
@@ -20,10 +92,75 @@
       "returnRate": -0.13,
       "estimatedRate": -0.13,
       "estimatedValue": 3.6961,
-      "nav": 3.7009,
-      "navDate": "2026-06-05",
+      "nav": 3.7983,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 8.22,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 6.4,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 6.04,
+          "market": "NYSE"
+        },
+        {
+          "code": "WDC",
+          "fullCode": "105.WDC",
+          "name": "西部数据",
+          "weight": 5.19,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "COHR",
+          "fullCode": "106.COHR",
+          "name": "Coherent Corp",
+          "weight": 5.17,
+          "market": "NYSE"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 5.13,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "INTC",
+          "fullCode": "105.INTC",
+          "name": "英特尔",
+          "weight": 4.34,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NFLX",
+          "fullCode": "105.NFLX",
+          "name": "奈飞",
+          "weight": 3.55,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "ASML",
+          "fullCode": "105.ASML",
+          "name": "阿斯麦",
+          "weight": 3.25,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "3",
@@ -35,7 +172,79 @@
       "nav": 0.9544,
       "navDate": "2026-06-05",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "ASML",
+          "fullCode": "105.ASML",
+          "name": "阿斯麦",
+          "weight": 5.21,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "02513",
+          "fullCode": "116.02513",
+          "name": "智谱",
+          "weight": 5.1,
+          "market": "HK"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 4.94,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 4.47,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 4.07,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 4.02,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LRCX",
+          "fullCode": "105.LRCX",
+          "name": "拉姆研究",
+          "weight": 4.01,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "SNDK",
+          "fullCode": "105.SNDK",
+          "name": "闪迪",
+          "weight": 3.54,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 3.27,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 3.26,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "4",
@@ -47,7 +256,79 @@
       "nav": 4.12,
       "navDate": "2026-06-05",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 5.37,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 4.85,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MRVL",
+          "fullCode": "105.MRVL",
+          "name": "迈威尔科技",
+          "weight": 4.37,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "688498",
+          "fullCode": "1.688498",
+          "name": "源杰科技",
+          "weight": 4.25,
+          "market": "SH"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 3.79,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "ASML",
+          "fullCode": "105.ASML",
+          "name": "阿斯麦",
+          "weight": 3.7,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "688256",
+          "fullCode": "1.688256",
+          "name": "寒武纪",
+          "weight": 3.66,
+          "market": "SH"
+        },
+        {
+          "code": "KLAC",
+          "fullCode": "105.KLAC",
+          "name": "科磊",
+          "weight": 3.44,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 3.39,
+          "market": "NYSE"
+        },
+        {
+          "code": "AMD",
+          "fullCode": "105.AMD",
+          "name": "超威半导体",
+          "weight": 3.33,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "5",
@@ -59,7 +340,79 @@
       "nav": 6.245,
       "navDate": "2026-06-05",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 9.97,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 9.75,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 6.2,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 6.17,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 4.86,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 4.04,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSLA",
+          "fullCode": "105.TSLA",
+          "name": "特斯拉",
+          "weight": 3.1,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 2.9,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "META",
+          "fullCode": "105.META",
+          "name": "Meta Platforms Inc-A",
+          "weight": 2.84,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LLY",
+          "fullCode": "106.LLY",
+          "name": "礼来",
+          "weight": 2.34,
+          "market": "NYSE"
+        }
+      ]
     },
     {
       "id": "6",
@@ -68,10 +421,82 @@
       "returnRate": -0.14,
       "estimatedRate": -0.14,
       "estimatedValue": 6.4002,
-      "nav": 6.4091,
-      "navDate": "2026-06-05",
+      "nav": 6.5011,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 20.16,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 17.73,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 13.08,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 6.98,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 1.81,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "PLTR",
+          "fullCode": "105.PLTR",
+          "name": "Palantir Technologies Inc-A",
+          "weight": 1.59,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMD",
+          "fullCode": "105.AMD",
+          "name": "超威半导体",
+          "weight": 1.58,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "CSCO",
+          "fullCode": "105.CSCO",
+          "name": "思科",
+          "weight": 1.46,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMAT",
+          "fullCode": "105.AMAT",
+          "name": "应用材料",
+          "weight": 1.29,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LRCX",
+          "fullCode": "105.LRCX",
+          "name": "拉姆研究",
+          "weight": 1.27,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "7",
@@ -80,10 +505,82 @@
       "returnRate": -0.07,
       "estimatedRate": -0.07,
       "estimatedValue": 4.3249,
-      "nav": 4.3281,
-      "navDate": "2026-06-05",
+      "nav": 4.3513,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 8.88,
+          "market": "NYSE"
+        },
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 8.68,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "300502",
+          "fullCode": "0.300502",
+          "name": "新易盛",
+          "weight": 6.02,
+          "market": "SZ"
+        },
+        {
+          "code": "GLW",
+          "fullCode": "106.GLW",
+          "name": "康宁",
+          "weight": 4.67,
+          "market": "NYSE"
+        },
+        {
+          "code": "AXTI",
+          "fullCode": "105.AXTI",
+          "name": "AXT Inc",
+          "weight": 4.67,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "300308",
+          "fullCode": "0.300308",
+          "name": "中际旭创",
+          "weight": 4.67,
+          "market": "SZ"
+        },
+        {
+          "code": "688498",
+          "fullCode": "1.688498",
+          "name": "源杰科技",
+          "weight": 4.49,
+          "market": "SH"
+        },
+        {
+          "code": "TSEM",
+          "fullCode": "105.TSEM",
+          "name": "Tower半导体",
+          "weight": 3.72,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 3.36,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "002384",
+          "fullCode": "0.002384",
+          "name": "东山精密",
+          "weight": 2.67,
+          "market": "SZ"
+        }
+      ]
     },
     {
       "id": "8",
@@ -92,10 +589,82 @@
       "returnRate": -0.12,
       "estimatedRate": -0.12,
       "estimatedValue": 7.1737,
-      "nav": 7.1824,
-      "navDate": "2026-06-05",
+      "nav": 7.3932,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 7.69,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 7.03,
+          "market": "NYSE"
+        },
+        {
+          "code": "LRCX",
+          "fullCode": "105.LRCX",
+          "name": "拉姆研究",
+          "weight": 7.02,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GLW",
+          "fullCode": "106.GLW",
+          "name": "康宁",
+          "weight": 6.79,
+          "market": "NYSE"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 6.49,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 5.86,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSEM",
+          "fullCode": "105.TSEM",
+          "name": "Tower半导体",
+          "weight": 5.01,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MKSI",
+          "fullCode": "105.MKSI",
+          "name": "MKS Inc",
+          "weight": 4.68,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TTMI",
+          "fullCode": "105.TTMI",
+          "name": "TTM科技",
+          "weight": 4.48,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "INTC",
+          "fullCode": "105.INTC",
+          "name": "英特尔",
+          "weight": 3.16,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "9",
@@ -104,10 +673,68 @@
       "returnRate": -0.09,
       "estimatedRate": -0.09,
       "estimatedValue": 2.4209,
-      "nav": 2.423,
-      "navDate": "2026-06-05",
+      "nav": 2.465,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 10.26,
+          "market": "NYSE"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 10.14,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 8.52,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "SNDK",
+          "fullCode": "105.SNDK",
+          "name": "闪迪",
+          "weight": 4.91,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GLW",
+          "fullCode": "106.GLW",
+          "name": "康宁",
+          "weight": 4.29,
+          "market": "NYSE"
+        },
+        {
+          "code": "WDC",
+          "fullCode": "105.WDC",
+          "name": "西部数据",
+          "weight": 3.73,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 3.58,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MPWR",
+          "fullCode": "105.MPWR",
+          "name": "Monolithic Power Systems Inc",
+          "weight": 3.49,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "10",
@@ -116,10 +743,82 @@
       "returnRate": -0.14,
       "estimatedRate": -0.14,
       "estimatedValue": 5.233,
-      "nav": 5.2404,
-      "navDate": "2026-06-05",
+      "nav": 5.3554,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 8.96,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 8.14,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 5.0,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 4.84,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 4.45,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 3.89,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "META",
+          "fullCode": "105.META",
+          "name": "Meta Platforms Inc-A",
+          "weight": 3.48,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 3.34,
+          "market": "NYSE"
+        },
+        {
+          "code": "NFLX",
+          "fullCode": "105.NFLX",
+          "name": "奈飞",
+          "weight": 2.36,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 2.21,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "11",
@@ -128,10 +827,82 @@
       "returnRate": -0.06,
       "estimatedRate": -0.06,
       "estimatedValue": 3.4288,
-      "nav": 3.431,
-      "navDate": "2026-06-05",
+      "nav": 3.4494,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "CIEN",
+          "fullCode": "106.CIEN",
+          "name": "Ciena科技",
+          "weight": 5.56,
+          "market": "NYSE"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 4.87,
+          "market": "NYSE"
+        },
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 4.72,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "COHR",
+          "fullCode": "106.COHR",
+          "name": "Coherent Corp",
+          "weight": 4.59,
+          "market": "NYSE"
+        },
+        {
+          "code": "VIAV",
+          "fullCode": "105.VIAV",
+          "name": "Viavi Solutions Inc",
+          "weight": 4.52,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GLW",
+          "fullCode": "106.GLW",
+          "name": "康宁",
+          "weight": 4.15,
+          "market": "NYSE"
+        },
+        {
+          "code": "SNDK",
+          "fullCode": "105.SNDK",
+          "name": "闪迪",
+          "weight": 2.66,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 2.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AEIS",
+          "fullCode": "105.AEIS",
+          "name": "先进能源工业",
+          "weight": 1.63,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TER",
+          "fullCode": "105.TER",
+          "name": "泰瑞达",
+          "weight": 1.62,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "12",
@@ -140,10 +911,82 @@
       "returnRate": -0.12,
       "estimatedRate": -0.12,
       "estimatedValue": 2.8715,
-      "nav": 2.875,
-      "navDate": "2026-06-05",
+      "nav": 2.951,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "COHR",
+          "fullCode": "106.COHR",
+          "name": "Coherent Corp",
+          "weight": 7.54,
+          "market": "NYSE"
+        },
+        {
+          "code": "SNDK",
+          "fullCode": "105.SNDK",
+          "name": "闪迪",
+          "weight": 7.13,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 6.58,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "ONTO",
+          "fullCode": "106.ONTO",
+          "name": "Onto Innovation Inc",
+          "weight": 5.85,
+          "market": "NYSE"
+        },
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 5.79,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GLW",
+          "fullCode": "106.GLW",
+          "name": "康宁",
+          "weight": 5.12,
+          "market": "NYSE"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 4.76,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 4.11,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "INTC",
+          "fullCode": "105.INTC",
+          "name": "英特尔",
+          "weight": 3.45,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAOI",
+          "fullCode": "105.AAOI",
+          "name": "应用光电",
+          "weight": 3.02,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "13",
@@ -155,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-06-09 07:19:39"
+      "lastUpdated": "2026-06-09 20:03:27"
     },
     {
       "id": "14",
@@ -164,22 +1007,117 @@
       "returnRate": 1.5,
       "estimatedRate": 1.5,
       "estimatedValue": 8.237,
-      "nav": 8.1154,
-      "navDate": "2026-06-05",
+      "nav": 8.2439,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 04:00"
+      "lastUpdated": "2026-06-09 04:00",
+      "holdings": [
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 1.46,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 0.95,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 0.54,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 0.53,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSLA",
+          "fullCode": "105.TSLA",
+          "name": "特斯拉",
+          "weight": 0.49,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 0.35,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "META",
+          "fullCode": "105.META",
+          "name": "Meta Platforms Inc-A",
+          "weight": 0.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 0.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "COST",
+          "fullCode": "105.COST",
+          "name": "开市客",
+          "weight": 0.16,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "PEP",
+          "fullCode": "105.PEP",
+          "name": "百事",
+          "weight": 0.11,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "15",
       "name": "南方全球精选",
       "code": "202801",
-      "returnRate": -3.49,
+      "returnRate": 0.79,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 1.0171,
-      "navDate": "2026-06-05",
+      "nav": 1.0251,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 07:19:52"
+      "lastUpdated": "2026-06-09 20:03:31",
+      "holdings": [
+        {
+          "code": "06082",
+          "fullCode": "116.06082",
+          "name": "壁仞科技",
+          "weight": 1.13,
+          "market": "HK"
+        },
+        {
+          "code": "00517",
+          "fullCode": "116.00517",
+          "name": "中远海运国际",
+          "weight": 0.79,
+          "market": "HK"
+        },
+        {
+          "code": "02245",
+          "fullCode": "116.02245",
+          "name": "力勤资源",
+          "weight": 0.59,
+          "market": "HK"
+        }
+      ]
     }
   ]
 }

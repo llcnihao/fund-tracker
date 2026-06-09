@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-06-09 15:41:18",
+  "updateTime": "2026-06-09 20:03:33",
   "funds": [
     {
       "id": "1",
@@ -92,8 +92,8 @@
       "returnRate": -0.13,
       "estimatedRate": -0.13,
       "estimatedValue": 3.6961,
-      "nav": 3.7009,
-      "navDate": "2026-06-05",
+      "nav": 3.7983,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -421,8 +421,8 @@
       "returnRate": -0.14,
       "estimatedRate": -0.14,
       "estimatedValue": 6.4002,
-      "nav": 6.4091,
-      "navDate": "2026-06-05",
+      "nav": 6.5011,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -505,8 +505,8 @@
       "returnRate": -0.07,
       "estimatedRate": -0.07,
       "estimatedValue": 4.3249,
-      "nav": 4.3281,
-      "navDate": "2026-06-05",
+      "nav": 4.3513,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -589,8 +589,8 @@
       "returnRate": -0.12,
       "estimatedRate": -0.12,
       "estimatedValue": 7.1737,
-      "nav": 7.1824,
-      "navDate": "2026-06-05",
+      "nav": 7.3932,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -673,8 +673,8 @@
       "returnRate": -0.09,
       "estimatedRate": -0.09,
       "estimatedValue": 2.4209,
-      "nav": 2.423,
-      "navDate": "2026-06-05",
+      "nav": 2.465,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -743,8 +743,8 @@
       "returnRate": -0.14,
       "estimatedRate": -0.14,
       "estimatedValue": 5.233,
-      "nav": 5.2404,
-      "navDate": "2026-06-05",
+      "nav": 5.3554,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -827,8 +827,8 @@
       "returnRate": -0.06,
       "estimatedRate": -0.06,
       "estimatedValue": 3.4288,
-      "nav": 3.431,
-      "navDate": "2026-06-05",
+      "nav": 3.4494,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -911,8 +911,8 @@
       "returnRate": -0.12,
       "estimatedRate": -0.12,
       "estimatedValue": 2.8715,
-      "nav": 2.875,
-      "navDate": "2026-06-05",
+      "nav": 2.951,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -998,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-06-09 15:41:13"
+      "lastUpdated": "2026-06-09 20:03:27"
     },
     {
       "id": "14",
@@ -1007,8 +1007,8 @@
       "returnRate": 1.5,
       "estimatedRate": 1.5,
       "estimatedValue": 8.237,
-      "nav": 8.1154,
-      "navDate": "2026-06-05",
+      "nav": 8.2439,
+      "navDate": "2026-06-08",
       "limit": "",
       "lastUpdated": "2026-06-09 04:00",
       "holdings": [
@@ -1088,13 +1088,13 @@
       "id": "15",
       "name": "南方全球精选",
       "code": "202801",
-      "returnRate": -3.49,
+      "returnRate": 0.79,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 1.0171,
-      "navDate": "2026-06-05",
+      "nav": 1.0251,
+      "navDate": "2026-06-08",
       "limit": "",
-      "lastUpdated": "2026-06-09 15:41:16",
+      "lastUpdated": "2026-06-09 20:03:31",
       "holdings": [
         {
           "code": "06082",
