@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-07-01 12:20:48",
+  "updateTime": "2026-07-02 11:07:47",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": 1.69,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
-      "nav": 2.3227,
-      "navDate": "2026-06-30",
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 2.3232,
+      "nav": 2.3045,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 12:18:16",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "NFLX",
@@ -89,13 +89,13 @@
       "id": "2",
       "name": "浦银安盛全球智能科技",
       "code": "006555",
-      "returnRate": 0.2,
-      "estimatedRate": 0.2,
-      "estimatedValue": 4.3181,
-      "nav": 4.4496,
-      "navDate": "2026-06-30",
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 4.4504,
+      "nav": 4.1504,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "LITE",
@@ -166,13 +166,13 @@
       "id": "3",
       "name": "广发全球精选",
       "code": "000906",
-      "returnRate": 0.13,
-      "estimatedRate": 0.13,
-      "estimatedValue": 1.0785,
+      "returnRate": 0.01,
+      "estimatedRate": 0.01,
+      "estimatedValue": 1.1065,
       "nav": 1.1064,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "ASML",
@@ -250,13 +250,13 @@
       "id": "4",
       "name": "嘉实全球产业升级",
       "code": "017730",
-      "returnRate": 0.13,
-      "estimatedRate": 0.13,
-      "estimatedValue": 4.932,
-      "nav": 5.1424,
-      "navDate": "2026-06-30",
+      "returnRate": 0.01,
+      "estimatedRate": 0.01,
+      "estimatedValue": 5.143,
+      "nav": 4.9594,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "AVGO",
@@ -334,13 +334,13 @@
       "id": "5",
       "name": "嘉实美国成长",
       "code": "000043",
-      "returnRate": 1.5,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
-      "nav": 6.487,
-      "navDate": "2026-06-30",
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 6.4884,
+      "nav": 6.375,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 12:18:55",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "NVDA",
@@ -418,13 +418,13 @@
       "id": "6",
       "name": "易方达标普信息科技",
       "code": "012868",
-      "returnRate": 0.21,
-      "estimatedRate": 0.21,
-      "estimatedValue": 6.4048,
-      "nav": 6.5378,
-      "navDate": "2026-06-30",
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 6.5391,
+      "nav": 6.4208,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "NVDA",
@@ -502,13 +502,13 @@
       "id": "7",
       "name": "易方达全球成长精选",
       "code": "012920",
-      "returnRate": 0.11,
-      "estimatedRate": 0.11,
-      "estimatedValue": 5.0694,
-      "nav": 5.2809,
-      "navDate": "2026-06-30",
+      "returnRate": 0.01,
+      "estimatedRate": 0.01,
+      "estimatedValue": 5.2815,
+      "nav": 5.0259,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "TSM",
@@ -586,13 +586,13 @@
       "id": "8",
       "name": "国富全球科技",
       "code": "006373",
-      "returnRate": 3.23,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 8.4346,
       "nav": 8.4331,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 12:19:26",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "MU",
@@ -670,13 +670,13 @@
       "id": "9",
       "name": "建信新兴市场混合",
       "code": "018147",
-      "returnRate": 0.13,
-      "estimatedRate": 0.13,
-      "estimatedValue": 2.7306,
+      "returnRate": 2.79,
+      "estimatedRate": 0.0,
+      "estimatedValue": 0.0,
       "nav": 2.803,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 11:06:42",
       "holdings": [
         {
           "code": "TSM",
@@ -740,13 +740,13 @@
       "id": "10",
       "name": "汇添富全球移动互联",
       "code": "001668",
-      "returnRate": 0.21,
-      "estimatedRate": 0.21,
-      "estimatedValue": 5.555,
-      "nav": 5.6902,
-      "navDate": "2026-06-30",
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 5.6914,
+      "nav": 5.5254,
+      "navDate": "2026-07-01",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "NVDA",
@@ -824,13 +824,13 @@
       "id": "11",
       "name": "华夏全球科技先锋",
       "code": "024239",
-      "returnRate": 0.1,
-      "estimatedRate": 0.1,
-      "estimatedValue": 3.9201,
+      "returnRate": 0.01,
+      "estimatedRate": 0.01,
+      "estimatedValue": 4.0321,
       "nav": 4.0317,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "CIEN",
@@ -908,13 +908,13 @@
       "id": "12",
       "name": "华夏移动互联",
       "code": "002891",
-      "returnRate": 3.26,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": 0.02,
+      "estimatedRate": 0.02,
+      "estimatedValue": 3.3896,
       "nav": 3.389,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 12:19:57",
+      "lastUpdated": "2026-07-02 04:00",
       "holdings": [
         {
           "code": "COHR",
@@ -998,91 +998,19 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-01 12:20:11"
+      "lastUpdated": "2026-07-02 11:07:20"
     },
     {
       "id": "14",
       "name": "广发纳斯达克100指数",
       "code": "270042",
-      "returnRate": 1.6,
-      "estimatedRate": 1.6,
-      "estimatedValue": 8.4614,
+      "returnRate": -1.47,
+      "estimatedRate": -1.47,
+      "estimatedValue": 8.3359,
       "nav": 8.4599,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 04:00",
-      "holdings": [
-        {
-          "code": "AAPL",
-          "fullCode": "105.AAPL",
-          "name": "苹果",
-          "weight": 1.46,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MSFT",
-          "fullCode": "105.MSFT",
-          "name": "微软",
-          "weight": 0.95,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AMZN",
-          "fullCode": "105.AMZN",
-          "name": "亚马逊",
-          "weight": 0.54,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "GOOG",
-          "fullCode": "105.GOOG",
-          "name": "谷歌-C",
-          "weight": 0.53,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "TSLA",
-          "fullCode": "105.TSLA",
-          "name": "特斯拉",
-          "weight": 0.49,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "GOOGL",
-          "fullCode": "105.GOOGL",
-          "name": "谷歌-A",
-          "weight": 0.35,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "META",
-          "fullCode": "105.META",
-          "name": "Meta Platforms Inc-A",
-          "weight": 0.3,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "NVDA",
-          "fullCode": "105.NVDA",
-          "name": "英伟达",
-          "weight": 0.3,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "COST",
-          "fullCode": "105.COST",
-          "name": "开市客",
-          "weight": 0.16,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "PEP",
-          "fullCode": "105.PEP",
-          "name": "百事",
-          "weight": 0.11,
-          "market": "NASDAQ"
-        }
-      ]
+      "lastUpdated": "2026-07-02 04:00"
     },
     {
       "id": "15",
@@ -1094,7 +1022,7 @@
       "nav": 1.0297,
       "navDate": "2026-06-30",
       "limit": "",
-      "lastUpdated": "2026-07-01 12:20:33",
+      "lastUpdated": "2026-07-02 11:07:40",
       "holdings": [
         {
           "code": "06082",
