@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-07-14 03:55:36",
+  "updateTime": "2026-07-14 06:08:09",
   "funds": [
     {
       "id": "1",
@@ -586,13 +586,13 @@
       "id": "8",
       "name": "国富全球科技",
       "code": "006373",
-      "returnRate": -0.68,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": -0.2,
+      "estimatedRate": -0.2,
+      "estimatedValue": 7.4153,
       "nav": 7.4301,
       "navDate": "2026-07-10",
       "limit": "",
-      "lastUpdated": "2026-07-14 03:54:18",
+      "lastUpdated": "2026-07-14 04:00",
       "holdings": [
         {
           "code": "MU",
@@ -670,13 +670,13 @@
       "id": "9",
       "name": "建信新兴市场混合",
       "code": "018147",
-      "returnRate": 0.76,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": -0.14,
+      "estimatedRate": -0.14,
+      "estimatedValue": 2.5194,
       "nav": 2.523,
       "navDate": "2026-07-10",
       "limit": "",
-      "lastUpdated": "2026-07-14 03:54:32",
+      "lastUpdated": "2026-07-14 04:00",
       "holdings": [
         {
           "code": "TSM",
@@ -998,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-14 03:55:11"
+      "lastUpdated": "2026-07-14 06:07:51"
     },
     {
       "id": "14",
@@ -1010,7 +1010,79 @@
       "nav": 8.3105,
       "navDate": "2026-07-10",
       "limit": "",
-      "lastUpdated": "2026-07-14 04:00"
+      "lastUpdated": "2026-07-14 04:00",
+      "holdings": [
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 1.46,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 0.95,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 0.54,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 0.53,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSLA",
+          "fullCode": "105.TSLA",
+          "name": "特斯拉",
+          "weight": 0.49,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 0.35,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "META",
+          "fullCode": "105.META",
+          "name": "Meta Platforms Inc-A",
+          "weight": 0.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 0.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "COST",
+          "fullCode": "105.COST",
+          "name": "开市客",
+          "weight": 0.16,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "PEP",
+          "fullCode": "105.PEP",
+          "name": "百事",
+          "weight": 0.11,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "15",
@@ -1022,7 +1094,7 @@
       "nav": 1.0148,
       "navDate": "2026-07-10",
       "limit": "",
-      "lastUpdated": "2026-07-14 03:55:32",
+      "lastUpdated": "2026-07-14 06:08:01",
       "holdings": [
         {
           "code": "06082",
