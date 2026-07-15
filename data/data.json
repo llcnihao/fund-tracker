@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-07-15 06:11:51",
+  "updateTime": "2026-07-15 09:08:38",
   "funds": [
     {
       "id": "1",
@@ -253,8 +253,8 @@
       "returnRate": 0.05,
       "estimatedRate": 0.05,
       "estimatedValue": 4.4672,
-      "nav": 4.4651,
-      "navDate": "2026-07-13",
+      "nav": 4.5815,
+      "navDate": "2026-07-14",
       "limit": "",
       "lastUpdated": "2026-07-15 04:00",
       "holdings": [
@@ -337,8 +337,8 @@
       "returnRate": 0.09,
       "estimatedRate": 0.09,
       "estimatedValue": 6.2433,
-      "nav": 6.238,
-      "navDate": "2026-07-13",
+      "nav": 6.31,
+      "navDate": "2026-07-14",
       "limit": "",
       "lastUpdated": "2026-07-15 04:00",
       "holdings": [
@@ -421,8 +421,8 @@
       "returnRate": 0.08,
       "estimatedRate": 0.08,
       "estimatedValue": 6.3991,
-      "nav": 6.3941,
-      "navDate": "2026-07-13",
+      "nav": 6.471,
+      "navDate": "2026-07-14",
       "limit": "",
       "lastUpdated": "2026-07-15 04:00",
       "holdings": [
@@ -505,8 +505,8 @@
       "returnRate": 0.04,
       "estimatedRate": 0.04,
       "estimatedValue": 4.2689,
-      "nav": 4.2671,
-      "navDate": "2026-07-13",
+      "nav": 4.4136,
+      "navDate": "2026-07-14",
       "limit": "",
       "lastUpdated": "2026-07-15 04:00",
       "holdings": [
@@ -998,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-15 06:11:36"
+      "lastUpdated": "2026-07-15 09:08:20"
     },
     {
       "id": "14",
@@ -1094,7 +1094,7 @@
       "nav": 1.0053,
       "navDate": "2026-07-13",
       "limit": "",
-      "lastUpdated": "2026-07-15 06:11:46",
+      "lastUpdated": "2026-07-15 09:08:32",
       "holdings": [
         {
           "code": "06082",
