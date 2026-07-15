@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-07-15 03:56:36",
+  "updateTime": "2026-07-15 06:11:51",
   "funds": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "returnRate": 0.08,
       "estimatedRate": 0.08,
       "estimatedValue": 2.2701,
-      "nav": 2.2682,
-      "navDate": "2026-07-13",
+      "nav": 2.2848,
+      "navDate": "2026-07-14",
       "limit": "",
       "lastUpdated": "2026-07-15 04:00",
       "holdings": [
@@ -670,13 +670,13 @@
       "id": "9",
       "name": "建信新兴市场混合",
       "code": "018147",
-      "returnRate": -5.98,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": 0.05,
+      "estimatedRate": 0.05,
+      "estimatedValue": 2.3732,
       "nav": 2.372,
       "navDate": "2026-07-13",
       "limit": "",
-      "lastUpdated": "2026-07-15 03:55:52",
+      "lastUpdated": "2026-07-15 04:00",
       "holdings": [
         {
           "code": "TSM",
@@ -998,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-15 03:56:21"
+      "lastUpdated": "2026-07-15 06:11:36"
     },
     {
       "id": "14",
@@ -1094,7 +1094,7 @@
       "nav": 1.0053,
       "navDate": "2026-07-13",
       "limit": "",
-      "lastUpdated": "2026-07-15 03:56:31",
+      "lastUpdated": "2026-07-15 06:11:46",
       "holdings": [
         {
           "code": "06082",
