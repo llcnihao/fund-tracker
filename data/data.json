@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-07-16 06:22:40",
+  "updateTime": "2026-07-16 09:11:36",
   "funds": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "returnRate": 0.23,
       "estimatedRate": 0.23,
       "estimatedValue": 2.29,
-      "nav": 2.2848,
-      "navDate": "2026-07-14",
+      "nav": 2.2899,
+      "navDate": "2026-07-15",
       "limit": "",
       "lastUpdated": "2026-07-16 04:00",
       "holdings": [
@@ -334,13 +334,13 @@
       "id": "5",
       "name": "嘉实美国成长",
       "code": "000043",
-      "returnRate": 0.24,
-      "estimatedRate": 0.24,
-      "estimatedValue": 6.3249,
-      "nav": 6.31,
-      "navDate": "2026-07-14",
+      "returnRate": -0.19,
+      "estimatedRate": 0.0,
+      "estimatedValue": 0.0,
+      "nav": 6.298,
+      "navDate": "2026-07-15",
       "limit": "",
-      "lastUpdated": "2026-07-16 04:00",
+      "lastUpdated": "2026-07-16 09:10:32",
       "holdings": [
         {
           "code": "NVDA",
@@ -421,8 +421,8 @@
       "returnRate": 0.22,
       "estimatedRate": 0.22,
       "estimatedValue": 6.4851,
-      "nav": 6.471,
-      "navDate": "2026-07-14",
+      "nav": 6.4565,
+      "navDate": "2026-07-15",
       "limit": "",
       "lastUpdated": "2026-07-16 04:00",
       "holdings": [
@@ -505,8 +505,8 @@
       "returnRate": 0.11,
       "estimatedRate": 0.11,
       "estimatedValue": 4.4186,
-      "nav": 4.4136,
-      "navDate": "2026-07-14",
+      "nav": 4.3805,
+      "navDate": "2026-07-15",
       "limit": "",
       "lastUpdated": "2026-07-16 04:00",
       "holdings": [
@@ -998,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-16 06:22:22"
+      "lastUpdated": "2026-07-16 09:11:22"
     },
     {
       "id": "14",
@@ -1094,7 +1094,7 @@
       "nav": 1.009,
       "navDate": "2026-07-14",
       "limit": "",
-      "lastUpdated": "2026-07-16 06:22:32",
+      "lastUpdated": "2026-07-16 09:11:31",
       "holdings": [
         {
           "code": "06082",
