@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-07-16 03:59:27",
+  "updateTime": "2026-07-16 06:22:40",
   "funds": [
     {
       "id": "1",
@@ -89,13 +89,13 @@
       "id": "2",
       "name": "浦银安盛全球智能科技",
       "code": "006555",
-      "returnRate": 2.87,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": 0.2,
+      "estimatedRate": 0.2,
+      "estimatedValue": 3.763,
       "nav": 3.7554,
       "navDate": "2026-07-14",
       "limit": "",
-      "lastUpdated": "2026-07-16 03:57:53",
+      "lastUpdated": "2026-07-16 04:00",
       "holdings": [
         {
           "code": "LITE",
@@ -340,7 +340,79 @@
       "nav": 6.31,
       "navDate": "2026-07-14",
       "limit": "",
-      "lastUpdated": "2026-07-16 04:00"
+      "lastUpdated": "2026-07-16 04:00",
+      "holdings": [
+        {
+          "code": "NVDA",
+          "fullCode": "105.NVDA",
+          "name": "英伟达",
+          "weight": 9.97,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AAPL",
+          "fullCode": "105.AAPL",
+          "name": "苹果",
+          "weight": 9.75,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOGL",
+          "fullCode": "105.GOOGL",
+          "name": "谷歌-A",
+          "weight": 6.2,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "MSFT",
+          "fullCode": "105.MSFT",
+          "name": "微软",
+          "weight": 6.17,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AVGO",
+          "fullCode": "105.AVGO",
+          "name": "博通",
+          "weight": 4.86,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "AMZN",
+          "fullCode": "105.AMZN",
+          "name": "亚马逊",
+          "weight": 4.04,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSLA",
+          "fullCode": "105.TSLA",
+          "name": "特斯拉",
+          "weight": 3.1,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "GOOG",
+          "fullCode": "105.GOOG",
+          "name": "谷歌-C",
+          "weight": 2.9,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "META",
+          "fullCode": "105.META",
+          "name": "Meta Platforms Inc-A",
+          "weight": 2.84,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LLY",
+          "fullCode": "106.LLY",
+          "name": "礼来",
+          "weight": 2.34,
+          "market": "NYSE"
+        }
+      ]
     },
     {
       "id": "6",
@@ -926,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-16 03:59:04"
+      "lastUpdated": "2026-07-16 06:22:22"
     },
     {
       "id": "14",
@@ -1022,7 +1094,7 @@
       "nav": 1.009,
       "navDate": "2026-07-14",
       "limit": "",
-      "lastUpdated": "2026-07-16 03:59:13",
+      "lastUpdated": "2026-07-16 06:22:32",
       "holdings": [
         {
           "code": "06082",
