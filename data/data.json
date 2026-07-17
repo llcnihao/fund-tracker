@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-07-17 03:58:36",
+  "updateTime": "2026-07-17 06:18:06",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": -0.22,
-      "estimatedRate": -0.22,
-      "estimatedValue": 2.2849,
+      "returnRate": 0.22,
+      "estimatedRate": 0.0,
+      "estimatedValue": 0.0,
       "nav": 2.2899,
       "navDate": "2026-07-15",
       "limit": "",
-      "lastUpdated": "2026-07-17 04:00",
+      "lastUpdated": "2026-07-17 06:16:30",
       "holdings": [
         {
           "code": "NFLX",
@@ -334,13 +334,13 @@
       "id": "5",
       "name": "嘉实美国成长",
       "code": "000043",
-      "returnRate": -0.19,
-      "estimatedRate": 0.0,
-      "estimatedValue": 0.0,
+      "returnRate": -0.22,
+      "estimatedRate": -0.22,
+      "estimatedValue": 6.284,
       "nav": 6.298,
       "navDate": "2026-07-15",
       "limit": "",
-      "lastUpdated": "2026-07-17 03:57:23",
+      "lastUpdated": "2026-07-17 04:00",
       "holdings": [
         {
           "code": "NVDA",
@@ -998,7 +998,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-17 03:58:12"
+      "lastUpdated": "2026-07-17 06:17:50"
     },
     {
       "id": "14",
@@ -1094,7 +1094,7 @@
       "nav": 1.0112,
       "navDate": "2026-07-15",
       "limit": "",
-      "lastUpdated": "2026-07-17 03:58:31",
+      "lastUpdated": "2026-07-17 06:18:00",
       "holdings": [
         {
           "code": "06082",
