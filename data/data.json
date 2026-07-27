@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-07-27 04:34:42",
+  "updateTime": "2026-07-27 08:27:29",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": -2.13,
+      "returnRate": -1.28,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.2059,
-      "navDate": "2026-07-23",
+      "nav": 2.1777,
+      "navDate": "2026-07-24",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:13",
+      "lastUpdated": "2026-07-27 08:26:01",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,7 +95,7 @@
       "nav": 3.6367,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:20",
+      "lastUpdated": "2026-07-27 08:26:07",
       "holdings": [
         {
           "code": "SNDK",
@@ -158,7 +158,7 @@
       "nav": 0.9421,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:25",
+      "lastUpdated": "2026-07-27 08:26:12",
       "holdings": [
         {
           "code": "02513",
@@ -235,7 +235,7 @@
       "nav": 4.1778,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:32",
+      "lastUpdated": "2026-07-27 08:26:17",
       "holdings": [
         {
           "code": "AMD",
@@ -319,7 +319,7 @@
       "nav": 6.111,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:37",
+      "lastUpdated": "2026-07-27 08:26:31",
       "holdings": [
         {
           "code": "AAPL",
@@ -403,7 +403,7 @@
       "nav": 6.3527,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:42",
+      "lastUpdated": "2026-07-27 08:26:38",
       "holdings": [
         {
           "code": "NVDA",
@@ -481,13 +481,13 @@
       "id": "7",
       "name": "易方达全球成长精选",
       "code": "012920",
-      "returnRate": -1.01,
+      "returnRate": -3.61,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 4.0449,
-      "navDate": "2026-07-23",
+      "nav": 3.8989,
+      "navDate": "2026-07-24",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:48",
+      "lastUpdated": "2026-07-27 08:26:43",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +564,7 @@
       "nav": 7.0538,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:52",
+      "lastUpdated": "2026-07-27 08:26:47",
       "holdings": [
         {
           "code": "MU",
@@ -641,7 +641,7 @@
       "nav": 2.409,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:33:59",
+      "lastUpdated": "2026-07-27 08:26:52",
       "holdings": [
         {
           "code": "TSM",
@@ -711,7 +711,7 @@
       "nav": 5.162,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:34:04",
+      "lastUpdated": "2026-07-27 08:26:57",
       "holdings": [
         {
           "code": "NVDA",
@@ -795,7 +795,7 @@
       "nav": 2.8379,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:34:09",
+      "lastUpdated": "2026-07-27 08:27:03",
       "holdings": [
         {
           "code": "SNDK",
@@ -879,7 +879,7 @@
       "nav": 2.727,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:34:15",
+      "lastUpdated": "2026-07-27 08:27:08",
       "holdings": [
         {
           "code": "MU",
@@ -956,7 +956,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:34:24"
+      "lastUpdated": "2026-07-27 08:27:12"
     },
     {
       "id": "14",
@@ -968,7 +968,7 @@
       "nav": 7.9076,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:34:29",
+      "lastUpdated": "2026-07-27 08:27:17",
       "holdings": [
         {
           "code": "AAPL",
@@ -1052,7 +1052,7 @@
       "nav": 1.0024,
       "navDate": "2026-07-23",
       "limit": "",
-      "lastUpdated": "2026-07-27 04:34:37",
+      "lastUpdated": "2026-07-27 08:27:23",
       "holdings": [
         {
           "code": "06082",
