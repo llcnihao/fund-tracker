@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-03 04:28:08",
+  "updateTime": "2026-08-03 08:26:01",
   "funds": [
     {
       "id": "1",
@@ -11,7 +11,7 @@
       "nav": 2.1569,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:26:34",
+      "lastUpdated": "2026-08-03 08:24:17",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,7 +95,7 @@
       "nav": 3.187,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:26:40",
+      "lastUpdated": "2026-08-03 08:24:23",
       "holdings": [
         {
           "code": "SNDK",
@@ -158,7 +158,7 @@
       "nav": 0.8658,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:26:46",
+      "lastUpdated": "2026-08-03 08:24:29",
       "holdings": [
         {
           "code": "02513",
@@ -235,7 +235,7 @@
       "nav": 3.6967,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:26:52",
+      "lastUpdated": "2026-08-03 08:24:33",
       "holdings": [
         {
           "code": "AMD",
@@ -319,7 +319,7 @@
       "nav": 6.037,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:26:59",
+      "lastUpdated": "2026-08-03 08:24:38",
       "holdings": [
         {
           "code": "AAPL",
@@ -403,7 +403,7 @@
       "nav": 6.3209,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:04",
+      "lastUpdated": "2026-08-03 08:24:41",
       "holdings": [
         {
           "code": "NVDA",
@@ -487,7 +487,7 @@
       "nav": 3.5622,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:11",
+      "lastUpdated": "2026-08-03 08:24:48",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +564,7 @@
       "nav": 6.4626,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:15",
+      "lastUpdated": "2026-08-03 08:24:53",
       "holdings": [
         {
           "code": "MU",
@@ -641,7 +641,7 @@
       "nav": 2.089,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:19",
+      "lastUpdated": "2026-08-03 08:24:56",
       "holdings": [
         {
           "code": "TSM",
@@ -711,7 +711,7 @@
       "nav": 4.9988,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:23",
+      "lastUpdated": "2026-08-03 08:25:01",
       "holdings": [
         {
           "code": "NVDA",
@@ -795,79 +795,7 @@
       "nav": 2.4349,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:34",
-      "holdings": [
-        {
-          "code": "SNDK",
-          "fullCode": "105.SNDK",
-          "name": "闪迪",
-          "weight": 3.11,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 2.85,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MRVL",
-          "fullCode": "105.MRVL",
-          "name": "迈威尔科技",
-          "weight": 1.6,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "TSM",
-          "fullCode": "106.TSM",
-          "name": "台积电",
-          "weight": 1.57,
-          "market": "NYSE"
-        },
-        {
-          "code": "UMC",
-          "fullCode": "106.UMC",
-          "name": "联华电子",
-          "weight": 1.51,
-          "market": "NYSE"
-        },
-        {
-          "code": "LITE",
-          "fullCode": "105.LITE",
-          "name": "Lumentum Holdings Inc",
-          "weight": 1.51,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "STX",
-          "fullCode": "105.STX",
-          "name": "希捷科技",
-          "weight": 1.49,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "WDC",
-          "fullCode": "105.WDC",
-          "name": "西部数据",
-          "weight": 1.46,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "01888",
-          "fullCode": "116.01888",
-          "name": "建滔积层板",
-          "weight": 1.38,
-          "market": "HK"
-        },
-        {
-          "code": "00522",
-          "fullCode": "116.00522",
-          "name": "ASMPT",
-          "weight": 1.37,
-          "market": "HK"
-        }
-      ]
+      "lastUpdated": "2026-08-03 08:25:09"
     },
     {
       "id": "12",
@@ -879,7 +807,7 @@
       "nav": 2.421,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:41",
+      "lastUpdated": "2026-08-03 08:25:23",
       "holdings": [
         {
           "code": "MU",
@@ -956,7 +884,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:46"
+      "lastUpdated": "2026-08-03 08:25:28"
     },
     {
       "id": "14",
@@ -968,7 +896,7 @@
       "nav": 7.7989,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:27:54",
+      "lastUpdated": "2026-08-03 08:25:38",
       "holdings": [
         {
           "code": "AAPL",
@@ -1052,7 +980,7 @@
       "nav": 0.9965,
       "navDate": "2026-07-30",
       "limit": "",
-      "lastUpdated": "2026-08-03 04:28:01",
+      "lastUpdated": "2026-08-03 08:25:48",
       "holdings": [
         {
           "code": "06082",
