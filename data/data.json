@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-12 03:22:32",
+  "updateTime": "2026-08-12 05:28:39",
   "funds": [
     {
       "id": "1",
@@ -11,7 +11,7 @@
       "nav": 2.3062,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:20:44",
+      "lastUpdated": "2026-08-12 05:27:23",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,7 +95,7 @@
       "nav": 3.2873,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:20:49",
+      "lastUpdated": "2026-08-12 05:27:27",
       "holdings": [
         {
           "code": "SNDK",
@@ -158,7 +158,7 @@
       "nav": 0.9322,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:20:54",
+      "lastUpdated": "2026-08-12 05:27:32",
       "holdings": [
         {
           "code": "02513",
@@ -235,7 +235,7 @@
       "nav": 4.0854,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:20:59",
+      "lastUpdated": "2026-08-12 05:27:37",
       "holdings": [
         {
           "code": "AMD",
@@ -319,7 +319,7 @@
       "nav": 6.364,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:05",
+      "lastUpdated": "2026-08-12 05:27:43",
       "holdings": [
         {
           "code": "AAPL",
@@ -403,7 +403,7 @@
       "nav": 6.6478,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:09",
+      "lastUpdated": "2026-08-12 05:27:47",
       "holdings": [
         {
           "code": "NVDA",
@@ -487,7 +487,7 @@
       "nav": 3.8015,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:24",
+      "lastUpdated": "2026-08-12 05:27:52",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +564,7 @@
       "nav": 6.8035,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:29",
+      "lastUpdated": "2026-08-12 05:27:56",
       "holdings": [
         {
           "code": "MU",
@@ -641,7 +641,7 @@
       "nav": 2.22,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:44",
+      "lastUpdated": "2026-08-12 05:28:00",
       "holdings": [
         {
           "code": "TSM",
@@ -711,7 +711,7 @@
       "nav": 5.3008,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:49",
+      "lastUpdated": "2026-08-12 05:28:09",
       "holdings": [
         {
           "code": "NVDA",
@@ -795,7 +795,7 @@
       "nav": 2.6537,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:21:58",
+      "lastUpdated": "2026-08-12 05:28:12",
       "holdings": [
         {
           "code": "SNDK",
@@ -879,7 +879,72 @@
       "nav": 2.577,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:22:04"
+      "lastUpdated": "2026-08-12 05:28:17",
+      "holdings": [
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 8.16,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "SNDK",
+          "fullCode": "105.SNDK",
+          "name": "闪迪",
+          "weight": 6.53,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "ONTO",
+          "fullCode": "106.ONTO",
+          "name": "Onto Innovation Inc",
+          "weight": 5.55,
+          "market": "NYSE"
+        },
+        {
+          "code": "AMD",
+          "fullCode": "105.AMD",
+          "name": "超威半导体",
+          "weight": 5.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "INTC",
+          "fullCode": "105.INTC",
+          "name": "英特尔",
+          "weight": 4.94,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 4.43,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 4.3,
+          "market": "NYSE"
+        },
+        {
+          "code": "STM",
+          "fullCode": "106.STM",
+          "name": "意法半导体",
+          "weight": 4.28,
+          "market": "NYSE"
+        },
+        {
+          "code": "ALAB",
+          "fullCode": "105.ALAB",
+          "name": "Astera Labs Inc",
+          "weight": 3.47,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "13",
@@ -891,7 +956,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:22:17"
+      "lastUpdated": "2026-08-12 05:28:26"
     },
     {
       "id": "14",
@@ -903,7 +968,7 @@
       "nav": 8.2152,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:22:24",
+      "lastUpdated": "2026-08-12 05:28:32",
       "holdings": [
         {
           "code": "AAPL",
@@ -987,7 +1052,7 @@
       "nav": 1.0232,
       "navDate": "2026-08-10",
       "limit": "",
-      "lastUpdated": "2026-08-12 03:22:27",
+      "lastUpdated": "2026-08-12 05:28:36",
       "holdings": [
         {
           "code": "06082",
