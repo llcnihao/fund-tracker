@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-18 02:14:35",
+  "updateTime": "2026-08-18 03:41:04",
   "funds": [
     {
       "id": "1",
@@ -11,7 +11,7 @@
       "nav": 2.3942,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:25",
+      "lastUpdated": "2026-08-18 03:39:41",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,7 +95,7 @@
       "nav": 3.6119,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:30",
+      "lastUpdated": "2026-08-18 03:39:47",
       "holdings": [
         {
           "code": "SNDK",
@@ -158,7 +158,7 @@
       "nav": 0.9586,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:34",
+      "lastUpdated": "2026-08-18 03:39:51",
       "holdings": [
         {
           "code": "02513",
@@ -235,7 +235,7 @@
       "nav": 4.1885,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:39",
+      "lastUpdated": "2026-08-18 03:39:57",
       "holdings": [
         {
           "code": "AMD",
@@ -319,7 +319,7 @@
       "nav": 6.416,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:44",
+      "lastUpdated": "2026-08-18 03:40:02",
       "holdings": [
         {
           "code": "AAPL",
@@ -403,7 +403,7 @@
       "nav": 6.7303,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:49",
+      "lastUpdated": "2026-08-18 03:40:15",
       "holdings": [
         {
           "code": "NVDA",
@@ -487,7 +487,7 @@
       "nav": 3.9633,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:54",
+      "lastUpdated": "2026-08-18 03:40:20",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +564,7 @@
       "nav": 7.0817,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:13:59",
+      "lastUpdated": "2026-08-18 03:40:24",
       "holdings": [
         {
           "code": "MU",
@@ -641,7 +641,7 @@
       "nav": 2.421,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:04",
+      "lastUpdated": "2026-08-18 03:40:28",
       "holdings": [
         {
           "code": "TSM",
@@ -711,7 +711,7 @@
       "nav": 5.4168,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:08",
+      "lastUpdated": "2026-08-18 03:40:34",
       "holdings": [
         {
           "code": "NVDA",
@@ -795,7 +795,7 @@
       "nav": 2.7646,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:12",
+      "lastUpdated": "2026-08-18 03:40:38",
       "holdings": [
         {
           "code": "SNDK",
@@ -879,7 +879,7 @@
       "nav": 2.794,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:16",
+      "lastUpdated": "2026-08-18 03:40:44",
       "holdings": [
         {
           "code": "MU",
@@ -956,7 +956,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:20"
+      "lastUpdated": "2026-08-18 03:40:50"
     },
     {
       "id": "14",
@@ -968,7 +968,7 @@
       "nav": 8.333,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:24",
+      "lastUpdated": "2026-08-18 03:40:55",
       "holdings": [
         {
           "code": "AAPL",
@@ -1052,7 +1052,7 @@
       "nav": 1.032,
       "navDate": "2026-08-14",
       "limit": "",
-      "lastUpdated": "2026-08-18 02:14:28",
+      "lastUpdated": "2026-08-18 03:40:58",
       "holdings": [
         {
           "code": "06082",
