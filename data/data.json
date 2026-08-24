@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-08-24 05:35:23",
+  "updateTime": "2026-08-24 06:48:00",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": 0.05,
+      "returnRate": -0.29,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.3201,
-      "navDate": "2026-08-20",
+      "nav": 2.3133,
+      "navDate": "2026-08-21",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:33:27",
+      "lastUpdated": "2026-08-24 06:46:38",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,58 +95,7 @@
       "nav": 3.503,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:33:32",
-      "holdings": [
-        {
-          "code": "SNDK",
-          "fullCode": "105.SNDK",
-          "name": "闪迪",
-          "weight": 9.52,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 8.5,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "INTC",
-          "fullCode": "105.INTC",
-          "name": "英特尔",
-          "weight": 7.82,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "WDC",
-          "fullCode": "105.WDC",
-          "name": "西部数据",
-          "weight": 7.58,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AMD",
-          "fullCode": "105.AMD",
-          "name": "超威半导体",
-          "weight": 7.53,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "COHR",
-          "fullCode": "106.COHR",
-          "name": "Coherent Corp",
-          "weight": 3.95,
-          "market": "NYSE"
-        },
-        {
-          "code": "TER",
-          "fullCode": "105.TER",
-          "name": "泰瑞达",
-          "weight": 3.95,
-          "market": "NASDAQ"
-        }
-      ]
+      "lastUpdated": "2026-08-24 06:46:42"
     },
     {
       "id": "3",
@@ -158,7 +107,7 @@
       "nav": 0.9269,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:33:38",
+      "lastUpdated": "2026-08-24 06:46:56",
       "holdings": [
         {
           "code": "02513",
@@ -235,7 +184,7 @@
       "nav": 4.044,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:33:44",
+      "lastUpdated": "2026-08-24 06:47:02",
       "holdings": [
         {
           "code": "AMD",
@@ -319,7 +268,7 @@
       "nav": 6.232,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:33:50",
+      "lastUpdated": "2026-08-24 06:47:07",
       "holdings": [
         {
           "code": "AAPL",
@@ -403,7 +352,7 @@
       "nav": 6.5222,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:04",
+      "lastUpdated": "2026-08-24 06:47:13",
       "holdings": [
         {
           "code": "NVDA",
@@ -487,7 +436,7 @@
       "nav": 3.7705,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:09",
+      "lastUpdated": "2026-08-24 06:47:18",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +513,7 @@
       "nav": 6.7373,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:15",
+      "lastUpdated": "2026-08-24 06:47:23",
       "holdings": [
         {
           "code": "MU",
@@ -641,7 +590,7 @@
       "nav": 2.346,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:20",
+      "lastUpdated": "2026-08-24 06:47:28",
       "holdings": [
         {
           "code": "TSM",
@@ -711,7 +660,7 @@
       "nav": 5.2152,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:35",
+      "lastUpdated": "2026-08-24 06:47:31",
       "holdings": [
         {
           "code": "NVDA",
@@ -795,7 +744,7 @@
       "nav": 2.6444,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:41",
+      "lastUpdated": "2026-08-24 06:47:36",
       "holdings": [
         {
           "code": "SNDK",
@@ -879,7 +828,72 @@
       "nav": 2.668,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:34:55"
+      "lastUpdated": "2026-08-24 06:47:41",
+      "holdings": [
+        {
+          "code": "MU",
+          "fullCode": "105.MU",
+          "name": "美光科技",
+          "weight": 8.16,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "SNDK",
+          "fullCode": "105.SNDK",
+          "name": "闪迪",
+          "weight": 6.53,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "ONTO",
+          "fullCode": "106.ONTO",
+          "name": "Onto Innovation Inc",
+          "weight": 5.55,
+          "market": "NYSE"
+        },
+        {
+          "code": "AMD",
+          "fullCode": "105.AMD",
+          "name": "超威半导体",
+          "weight": 5.3,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "INTC",
+          "fullCode": "105.INTC",
+          "name": "英特尔",
+          "weight": 4.94,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "LITE",
+          "fullCode": "105.LITE",
+          "name": "Lumentum Holdings Inc",
+          "weight": 4.43,
+          "market": "NASDAQ"
+        },
+        {
+          "code": "TSM",
+          "fullCode": "106.TSM",
+          "name": "台积电",
+          "weight": 4.3,
+          "market": "NYSE"
+        },
+        {
+          "code": "STM",
+          "fullCode": "106.STM",
+          "name": "意法半导体",
+          "weight": 4.28,
+          "market": "NYSE"
+        },
+        {
+          "code": "ALAB",
+          "fullCode": "105.ALAB",
+          "name": "Astera Labs Inc",
+          "weight": 3.47,
+          "market": "NASDAQ"
+        }
+      ]
     },
     {
       "id": "13",
@@ -891,7 +905,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:35:09"
+      "lastUpdated": "2026-08-24 06:47:46"
     },
     {
       "id": "14",
@@ -903,7 +917,7 @@
       "nav": 8.0914,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:35:14",
+      "lastUpdated": "2026-08-24 06:47:50",
       "holdings": [
         {
           "code": "AAPL",
@@ -987,7 +1001,7 @@
       "nav": 1.0184,
       "navDate": "2026-08-20",
       "limit": "",
-      "lastUpdated": "2026-08-24 05:35:18",
+      "lastUpdated": "2026-08-24 06:47:55",
       "holdings": [
         {
           "code": "06082",
