@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-09-17 05:42:00",
+  "updateTime": "2026-09-17 10:52:41",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": -0.74,
+      "returnRate": 0.4,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.2999,
-      "navDate": "2026-09-15",
+      "nav": 2.3091,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:40:26",
+      "lastUpdated": "2026-09-17 10:51:25",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,7 +95,7 @@
       "nav": 3.427,
       "navDate": "2026-09-15",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:40:30",
+      "lastUpdated": "2026-09-17 10:51:31",
       "holdings": [
         {
           "code": "SNDK",
@@ -158,7 +158,7 @@
       "nav": 0.9027,
       "navDate": "2026-09-15",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:40:38",
+      "lastUpdated": "2026-09-17 10:51:36",
       "holdings": [
         {
           "code": "02513",
@@ -229,13 +229,13 @@
       "id": "4",
       "name": "嘉实全球产业升级",
       "code": "017730",
-      "returnRate": 0.66,
+      "returnRate": 2.46,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 3.9476,
-      "navDate": "2026-09-15",
+      "nav": 4.0449,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:40:51",
+      "lastUpdated": "2026-09-17 10:51:41",
       "holdings": [
         {
           "code": "AMD",
@@ -313,13 +313,13 @@
       "id": "5",
       "name": "嘉实美国成长",
       "code": "000043",
-      "returnRate": -0.6,
+      "returnRate": 0.24,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 6.131,
-      "navDate": "2026-09-15",
+      "nav": 6.146,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:40:57",
+      "lastUpdated": "2026-09-17 10:51:45",
       "holdings": [
         {
           "code": "AAPL",
@@ -397,13 +397,13 @@
       "id": "6",
       "name": "易方达标普信息科技",
       "code": "012868",
-      "returnRate": -0.37,
+      "returnRate": 0.03,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 6.5399,
-      "navDate": "2026-09-15",
+      "nav": 6.542,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:01",
+      "lastUpdated": "2026-09-17 10:51:51",
       "holdings": [
         {
           "code": "NVDA",
@@ -481,13 +481,13 @@
       "id": "7",
       "name": "易方达全球成长精选",
       "code": "012920",
-      "returnRate": -0.11,
+      "returnRate": 2.43,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 3.6025,
-      "navDate": "2026-09-15",
+      "nav": 3.6902,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:07",
+      "lastUpdated": "2026-09-17 10:51:57",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +564,7 @@
       "nav": 6.5421,
       "navDate": "2026-09-15",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:12",
+      "lastUpdated": "2026-09-17 10:52:02",
       "holdings": [
         {
           "code": "MU",
@@ -641,7 +641,7 @@
       "nav": 2.243,
       "navDate": "2026-09-15",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:16",
+      "lastUpdated": "2026-09-17 10:52:06",
       "holdings": [
         {
           "code": "TSM",
@@ -705,13 +705,13 @@
       "id": "10",
       "name": "汇添富全球移动互联",
       "code": "001668",
-      "returnRate": -0.53,
+      "returnRate": 0.3,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 5.1522,
-      "navDate": "2026-09-15",
+      "nav": 5.1677,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:22",
+      "lastUpdated": "2026-09-17 10:52:11",
       "holdings": [
         {
           "code": "NVDA",
@@ -789,13 +789,13 @@
       "id": "11",
       "name": "华夏全球科技先锋",
       "code": "024239",
-      "returnRate": 0.28,
+      "returnRate": 2.64,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.544,
-      "navDate": "2026-09-15",
+      "nav": 2.6112,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:27",
+      "lastUpdated": "2026-09-17 10:52:16",
       "holdings": [
         {
           "code": "SNDK",
@@ -873,13 +873,13 @@
       "id": "12",
       "name": "华夏移动互联",
       "code": "002891",
-      "returnRate": -0.31,
+      "returnRate": 1.84,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.559,
-      "navDate": "2026-09-15",
+      "nav": 2.606,
+      "navDate": "2026-09-16",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:33",
+      "lastUpdated": "2026-09-17 10:52:20",
       "holdings": [
         {
           "code": "MU",
@@ -956,7 +956,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:37"
+      "lastUpdated": "2026-09-17 10:52:24"
     },
     {
       "id": "14",
@@ -968,7 +968,7 @@
       "nav": 7.9888,
       "navDate": "2026-09-15",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:51",
+      "lastUpdated": "2026-09-17 10:52:30",
       "holdings": [
         {
           "code": "AAPL",
@@ -1052,7 +1052,7 @@
       "nav": 1.0008,
       "navDate": "2026-09-15",
       "limit": "",
-      "lastUpdated": "2026-09-17 05:41:56",
+      "lastUpdated": "2026-09-17 10:52:36",
       "holdings": [
         {
           "code": "06082",
