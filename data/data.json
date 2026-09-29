@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-09-28 14:54:31",
+  "updateTime": "2026-09-29 06:34:10",
   "funds": [
     {
       "id": "1",
@@ -11,7 +11,7 @@
       "nav": 2.4609,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:52:59",
+      "lastUpdated": "2026-09-29 06:32:01",
       "holdings": [
         {
           "code": "NVDA",
@@ -95,7 +95,7 @@
       "nav": 3.7417,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:06",
+      "lastUpdated": "2026-09-29 06:32:11",
       "holdings": [
         {
           "code": "SNDK",
@@ -158,7 +158,7 @@
       "nav": 0.9581,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:13",
+      "lastUpdated": "2026-09-29 06:32:21",
       "holdings": [
         {
           "code": "02513",
@@ -235,7 +235,7 @@
       "nav": 4.2385,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:18",
+      "lastUpdated": "2026-09-29 06:32:27",
       "holdings": [
         {
           "code": "AMD",
@@ -319,7 +319,7 @@
       "nav": 6.348,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:23",
+      "lastUpdated": "2026-09-29 06:32:33",
       "holdings": [
         {
           "code": "AAPL",
@@ -403,7 +403,7 @@
       "nav": 6.8499,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:29",
+      "lastUpdated": "2026-09-29 06:32:39",
       "holdings": [
         {
           "code": "NVDA",
@@ -487,7 +487,7 @@
       "nav": 3.8463,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:37",
+      "lastUpdated": "2026-09-29 06:32:49",
       "holdings": [
         {
           "code": "LRCX",
@@ -564,7 +564,7 @@
       "nav": 7.1463,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:42",
+      "lastUpdated": "2026-09-29 06:32:55",
       "holdings": [
         {
           "code": "MU",
@@ -641,65 +641,7 @@
       "nav": 2.464,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:48",
-      "holdings": [
-        {
-          "code": "TSM",
-          "fullCode": "106.TSM",
-          "name": "台积电",
-          "weight": 9.68,
-          "market": "NYSE"
-        },
-        {
-          "code": "NVDA",
-          "fullCode": "105.NVDA",
-          "name": "英伟达",
-          "weight": 9.38,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "SNDK",
-          "fullCode": "105.SNDK",
-          "name": "闪迪",
-          "weight": 7.16,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AVGO",
-          "fullCode": "105.AVGO",
-          "name": "博通",
-          "weight": 4.18,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "WDC",
-          "fullCode": "105.WDC",
-          "name": "西部数据",
-          "weight": 4.18,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 3.99,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "LITE",
-          "fullCode": "105.LITE",
-          "name": "Lumentum Holdings Inc",
-          "weight": 3.56,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "GLW",
-          "fullCode": "106.GLW",
-          "name": "康宁",
-          "weight": 3.35,
-          "market": "NYSE"
-        }
-      ]
+      "lastUpdated": "2026-09-29 06:33:01"
     },
     {
       "id": "10",
@@ -711,7 +653,7 @@
       "nav": 5.4808,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:52",
+      "lastUpdated": "2026-09-29 06:33:14",
       "holdings": [
         {
           "code": "NVDA",
@@ -795,7 +737,7 @@
       "nav": 2.7455,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:53:58",
+      "lastUpdated": "2026-09-29 06:33:19",
       "holdings": [
         {
           "code": "SNDK",
@@ -879,7 +821,7 @@
       "nav": 2.85,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:54:03",
+      "lastUpdated": "2026-09-29 06:33:25",
       "holdings": [
         {
           "code": "MU",
@@ -956,7 +898,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:54:11"
+      "lastUpdated": "2026-09-29 06:33:37"
     },
     {
       "id": "14",
@@ -968,7 +910,7 @@
       "nav": 8.392,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:54:18",
+      "lastUpdated": "2026-09-29 06:33:45",
       "holdings": [
         {
           "code": "AAPL",
@@ -1052,7 +994,7 @@
       "nav": 1.0051,
       "navDate": "2026-09-24",
       "limit": "",
-      "lastUpdated": "2026-09-28 14:54:24",
+      "lastUpdated": "2026-09-29 06:34:01",
       "holdings": [
         {
           "code": "06082",
