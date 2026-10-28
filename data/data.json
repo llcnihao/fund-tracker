@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-10-27 11:32:11",
+  "updateTime": "2026-10-28 06:35:46",
   "funds": [
     {
       "id": "1",
@@ -11,7 +11,7 @@
       "nav": 2.2047,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:08",
+      "lastUpdated": "2026-10-28 06:34:19",
       "holdings": [
         {
           "code": "META",
@@ -95,7 +95,7 @@
       "nav": 3.3119,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:14",
+      "lastUpdated": "2026-10-28 06:34:26",
       "holdings": [
         {
           "code": "AMD",
@@ -159,13 +159,13 @@
       "id": "3",
       "name": "广发全球精选",
       "code": "000906",
-      "returnRate": 0.43,
+      "returnRate": 0.34,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 0.8355,
-      "navDate": "2026-10-23",
+      "nav": 0.8383,
+      "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:28",
+      "lastUpdated": "2026-10-28 06:34:30",
       "holdings": [
         {
           "code": "AMD",
@@ -249,7 +249,7 @@
       "nav": 3.3965,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:35",
+      "lastUpdated": "2026-10-28 06:34:41",
       "holdings": [
         {
           "code": "AMD",
@@ -333,7 +333,7 @@
       "nav": 6.003,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:40",
+      "lastUpdated": "2026-10-28 06:34:46",
       "holdings": [
         {
           "code": "NVDA",
@@ -417,7 +417,7 @@
       "nav": 6.6078,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:45",
+      "lastUpdated": "2026-10-28 06:34:51",
       "holdings": [
         {
           "code": "NVDA",
@@ -501,7 +501,7 @@
       "nav": 3.2878,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:30:57",
+      "lastUpdated": "2026-10-28 06:34:57",
       "holdings": [
         {
           "code": "TSM",
@@ -579,13 +579,13 @@
       "id": "8",
       "name": "国富全球科技",
       "code": "006373",
-      "returnRate": 0.67,
+      "returnRate": 1.47,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 6.2144,
-      "navDate": "2026-10-23",
+      "nav": 6.3059,
+      "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:08",
+      "lastUpdated": "2026-10-28 06:35:01",
       "holdings": [
         {
           "code": "MU",
@@ -669,7 +669,7 @@
       "nav": 2.076,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:24",
+      "lastUpdated": "2026-10-28 06:35:05",
       "holdings": [
         {
           "code": "TSM",
@@ -739,7 +739,7 @@
       "nav": 5.0583,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:29",
+      "lastUpdated": "2026-10-28 06:35:09",
       "holdings": [
         {
           "code": "NVDA",
@@ -823,7 +823,7 @@
       "nav": 2.08,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:38",
+      "lastUpdated": "2026-10-28 06:35:18",
       "holdings": [
         {
           "code": "INTC",
@@ -907,7 +907,7 @@
       "nav": 2.33,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:45",
+      "lastUpdated": "2026-10-28 06:35:28",
       "holdings": [
         {
           "code": "INTC",
@@ -991,7 +991,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:52"
+      "lastUpdated": "2026-10-28 06:35:34"
     },
     {
       "id": "14",
@@ -1003,7 +1003,7 @@
       "nav": 8.0031,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:31:57",
+      "lastUpdated": "2026-10-28 06:35:38",
       "holdings": [
         {
           "code": "AAPL",
@@ -1087,7 +1087,7 @@
       "nav": 0.9795,
       "navDate": "2026-10-26",
       "limit": "",
-      "lastUpdated": "2026-10-27 11:32:02",
+      "lastUpdated": "2026-10-28 06:35:42",
       "holdings": [
         {
           "code": "03223",
