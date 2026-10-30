@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-10-29 13:55:33",
+  "updateTime": "2026-10-30 06:44:57",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": 1.38,
+      "returnRate": -2.47,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.2884,
-      "navDate": "2026-10-28",
+      "nav": 2.2318,
+      "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:53:52",
+      "lastUpdated": "2026-10-30 06:43:18",
       "holdings": [
         {
           "code": "META",
@@ -95,7 +95,7 @@
       "nav": 3.4434,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:53:59",
+      "lastUpdated": "2026-10-30 06:43:24",
       "holdings": [
         {
           "code": "AMD",
@@ -165,7 +165,7 @@
       "nav": 0.8676,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:04",
+      "lastUpdated": "2026-10-30 06:43:29",
       "holdings": [
         {
           "code": "AMD",
@@ -249,7 +249,7 @@
       "nav": 3.5184,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:14",
+      "lastUpdated": "2026-10-30 06:43:34",
       "holdings": [
         {
           "code": "AMD",
@@ -333,7 +333,7 @@
       "nav": 6.125,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:22",
+      "lastUpdated": "2026-10-30 06:43:39",
       "holdings": [
         {
           "code": "NVDA",
@@ -417,7 +417,7 @@
       "nav": 6.7312,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:27",
+      "lastUpdated": "2026-10-30 06:43:47",
       "holdings": [
         {
           "code": "NVDA",
@@ -501,7 +501,7 @@
       "nav": 3.3853,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:34",
+      "lastUpdated": "2026-10-30 06:43:52",
       "holdings": [
         {
           "code": "TSM",
@@ -585,7 +585,7 @@
       "nav": 6.5171,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:39",
+      "lastUpdated": "2026-10-30 06:43:57",
       "holdings": [
         {
           "code": "MU",
@@ -669,65 +669,7 @@
       "nav": 2.226,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:48",
-      "holdings": [
-        {
-          "code": "TSM",
-          "fullCode": "106.TSM",
-          "name": "台积电",
-          "weight": 9.77,
-          "market": "NYSE"
-        },
-        {
-          "code": "NVDA",
-          "fullCode": "105.NVDA",
-          "name": "英伟达",
-          "weight": 9.45,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "SNDK",
-          "fullCode": "105.SNDK",
-          "name": "闪迪",
-          "weight": 7.67,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "LITE",
-          "fullCode": "105.LITE",
-          "name": "Lumentum Holdings Inc",
-          "weight": 4.44,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 4.21,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "WDC",
-          "fullCode": "105.WDC",
-          "name": "西部数据",
-          "weight": 4.11,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "ASML",
-          "fullCode": "105.ASML",
-          "name": "阿斯麦",
-          "weight": 3.57,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "ASX",
-          "fullCode": "106.ASX",
-          "name": "日月光半导体",
-          "weight": 3.37,
-          "market": "NYSE"
-        }
-      ]
+      "lastUpdated": "2026-10-30 06:44:03"
     },
     {
       "id": "10",
@@ -739,7 +681,7 @@
       "nav": 5.1927,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:54:54",
+      "lastUpdated": "2026-10-30 06:44:16",
       "holdings": [
         {
           "code": "NVDA",
@@ -823,7 +765,7 @@
       "nav": 2.1798,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:55:00",
+      "lastUpdated": "2026-10-30 06:44:24",
       "holdings": [
         {
           "code": "INTC",
@@ -907,7 +849,7 @@
       "nav": 2.49,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:55:05",
+      "lastUpdated": "2026-10-30 06:44:32",
       "holdings": [
         {
           "code": "INTC",
@@ -991,7 +933,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:55:15"
+      "lastUpdated": "2026-10-30 06:44:36"
     },
     {
       "id": "14",
@@ -1003,7 +945,7 @@
       "nav": 8.152,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:55:23",
+      "lastUpdated": "2026-10-30 06:44:40",
       "holdings": [
         {
           "code": "AAPL",
@@ -1087,7 +1029,7 @@
       "nav": 0.9886,
       "navDate": "2026-10-28",
       "limit": "",
-      "lastUpdated": "2026-10-29 13:55:27",
+      "lastUpdated": "2026-10-30 06:44:46",
       "holdings": [
         {
           "code": "03223",
