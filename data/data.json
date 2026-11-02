@@ -1,17 +1,17 @@
 {
-  "updateTime": "2026-10-30 13:48:09",
+  "updateTime": "2026-11-02 07:11:03",
   "funds": [
     {
       "id": "1",
       "name": "华宝纳斯达克精选",
       "code": "017436",
-      "returnRate": -2.47,
+      "returnRate": -4.53,
       "estimatedRate": 0.0,
       "estimatedValue": 0.0,
-      "nav": 2.2318,
-      "navDate": "2026-10-29",
+      "nav": 2.1308,
+      "navDate": "2026-10-30",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:46:08",
+      "lastUpdated": "2026-11-02 07:07:21",
       "holdings": [
         {
           "code": "META",
@@ -95,65 +95,7 @@
       "nav": 3.3702,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:46:18",
-      "holdings": [
-        {
-          "code": "AMD",
-          "fullCode": "105.AMD",
-          "name": "超威半导体",
-          "weight": 5.95,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 5.55,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "GOOG",
-          "fullCode": "105.GOOG",
-          "name": "谷歌-C",
-          "weight": 5.35,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "INTC",
-          "fullCode": "105.INTC",
-          "name": "英特尔",
-          "weight": 4.88,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "TSM",
-          "fullCode": "106.TSM",
-          "name": "台积电",
-          "weight": 4.85,
-          "market": "NYSE"
-        },
-        {
-          "code": "NVDA",
-          "fullCode": "105.NVDA",
-          "name": "英伟达",
-          "weight": 4.56,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MSFT",
-          "fullCode": "105.MSFT",
-          "name": "微软",
-          "weight": 4.01,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AAPL",
-          "fullCode": "105.AAPL",
-          "name": "苹果",
-          "weight": 3.84,
-          "market": "NASDAQ"
-        }
-      ]
+      "lastUpdated": "2026-11-02 07:07:36"
     },
     {
       "id": "3",
@@ -165,79 +107,7 @@
       "nav": 0.856,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:46:24",
-      "holdings": [
-        {
-          "code": "AMD",
-          "fullCode": "105.AMD",
-          "name": "超威半导体",
-          "weight": 5.44,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "ASML",
-          "fullCode": "105.ASML",
-          "name": "阿斯麦",
-          "weight": 4.19,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AMZN",
-          "fullCode": "105.AMZN",
-          "name": "亚马逊",
-          "weight": 3.97,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "GOOG",
-          "fullCode": "105.GOOG",
-          "name": "谷歌-C",
-          "weight": 3.73,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "NVDA",
-          "fullCode": "105.NVDA",
-          "name": "英伟达",
-          "weight": 3.72,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "LRCX",
-          "fullCode": "105.LRCX",
-          "name": "拉姆研究",
-          "weight": 3.5,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AAPL",
-          "fullCode": "105.AAPL",
-          "name": "苹果",
-          "weight": 3.4,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "AMAT",
-          "fullCode": "105.AMAT",
-          "name": "应用材料",
-          "weight": 3.09,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 3.03,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MSFT",
-          "fullCode": "105.MSFT",
-          "name": "微软",
-          "weight": 2.98,
-          "market": "NASDAQ"
-        }
-      ]
+      "lastUpdated": "2026-11-02 07:08:10"
     },
     {
       "id": "4",
@@ -249,7 +119,7 @@
       "nav": 3.3799,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:46:40",
+      "lastUpdated": "2026-11-02 07:08:34",
       "holdings": [
         {
           "code": "AMD",
@@ -333,7 +203,7 @@
       "nav": 6.047,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:46:46",
+      "lastUpdated": "2026-11-02 07:08:59",
       "holdings": [
         {
           "code": "NVDA",
@@ -417,7 +287,7 @@
       "nav": 6.6717,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:46:51",
+      "lastUpdated": "2026-11-02 07:09:14",
       "holdings": [
         {
           "code": "NVDA",
@@ -501,7 +371,7 @@
       "nav": 3.329,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:01",
+      "lastUpdated": "2026-11-02 07:09:29",
       "holdings": [
         {
           "code": "TSM",
@@ -585,79 +455,7 @@
       "nav": 6.3765,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:07",
-      "holdings": [
-        {
-          "code": "MU",
-          "fullCode": "105.MU",
-          "name": "美光科技",
-          "weight": 7.62,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "INTC",
-          "fullCode": "105.INTC",
-          "name": "英特尔",
-          "weight": 7.09,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "TSM",
-          "fullCode": "106.TSM",
-          "name": "台积电",
-          "weight": 7.0,
-          "market": "NYSE"
-        },
-        {
-          "code": "GOOG",
-          "fullCode": "105.GOOG",
-          "name": "谷歌-C",
-          "weight": 5.26,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MSFT",
-          "fullCode": "105.MSFT",
-          "name": "微软",
-          "weight": 5.05,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "MKSI",
-          "fullCode": "105.MKSI",
-          "name": "MKS Inc",
-          "weight": 4.43,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "GLW",
-          "fullCode": "106.GLW",
-          "name": "康宁",
-          "weight": 4.38,
-          "market": "NYSE"
-        },
-        {
-          "code": "NVDA",
-          "fullCode": "105.NVDA",
-          "name": "英伟达",
-          "weight": 4.18,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "LRCX",
-          "fullCode": "105.LRCX",
-          "name": "拉姆研究",
-          "weight": 4.14,
-          "market": "NASDAQ"
-        },
-        {
-          "code": "LITE",
-          "fullCode": "105.LITE",
-          "name": "Lumentum Holdings Inc",
-          "weight": 3.97,
-          "market": "NASDAQ"
-        }
-      ]
+      "lastUpdated": "2026-11-02 07:09:33"
     },
     {
       "id": "9",
@@ -669,7 +467,7 @@
       "nav": 2.194,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:22",
+      "lastUpdated": "2026-11-02 07:09:59",
       "holdings": [
         {
           "code": "TSM",
@@ -739,7 +537,7 @@
       "nav": 5.0886,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:30",
+      "lastUpdated": "2026-11-02 07:10:06",
       "holdings": [
         {
           "code": "NVDA",
@@ -823,7 +621,7 @@
       "nav": 2.0762,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:36",
+      "lastUpdated": "2026-11-02 07:10:19",
       "holdings": [
         {
           "code": "INTC",
@@ -907,7 +705,7 @@
       "nav": 2.424,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:42",
+      "lastUpdated": "2026-11-02 07:10:24",
       "holdings": [
         {
           "code": "INTC",
@@ -991,7 +789,7 @@
       "nav": 0.0,
       "navDate": "",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:49"
+      "lastUpdated": "2026-11-02 07:10:38"
     },
     {
       "id": "14",
@@ -1003,7 +801,7 @@
       "nav": 8.0355,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:47:56",
+      "lastUpdated": "2026-11-02 07:10:43",
       "holdings": [
         {
           "code": "AAPL",
@@ -1087,7 +885,7 @@
       "nav": 0.9868,
       "navDate": "2026-10-29",
       "limit": "",
-      "lastUpdated": "2026-10-30 13:48:03",
+      "lastUpdated": "2026-11-02 07:10:48",
       "holdings": [
         {
           "code": "03223",
